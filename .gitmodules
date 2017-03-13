@@ -1,0 +1,15 @@
+[submodule "compilation-api"]
+	path = compilation-api
+	url = https://github.com/Tahler/nu-code-compilation-api
+[submodule "web"]
+	path = web
+	url = https://github.com/Tahler/nu-code-web
+[submodule "helpful-scripts"]
+	path = helpful-scripts
+	url = https://github.com/Tahler/nu-code-helpful-scripts
+[submodule "submission-api"]
+	path = submission-api
+	url = https://github.com/Tahler/nu-code-submission-api
+[submodule "dispatch"]
+	path = dispatch
+	url = https://github.com/Tahler/nu-code-dispatch
